@@ -51,12 +51,6 @@
         <item>3</item>
     </integer-array>
 
-    <!-- Battery health -->
-    <bool name="config_supportBatteryHealth">true</bool>
-    <string name="config_batCurCap">/sys/class/power_supply/battery/charge_full</string>
-    <string name="config_batChargeCycle">/sys/class/power_supply/battery/cycle_count</string>
-    <string name="config_batDesCap">/sys/class/power_supply/battery/charge_full_design</string>
-
     <!-- Max network scan search time in seconds -->
     <integer name="config_network_scan_helper_max_search_time_sec">254</integer>
 </resources>
