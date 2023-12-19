@@ -57,9 +57,6 @@
     <string name="config_batChargeCycle">/sys/class/power_supply/battery/cycle_count</string>
     <string name="config_batDesCap">/sys/class/power_supply/battery/charge_full_design</string>
 
-    <!-- Whether to enable Lineage Fast Charge Preference -->
-    <bool name="config_lineageFastChargeSupported">true</bool>
-
     <!-- Max network scan search time in seconds -->
     <integer name="config_network_scan_helper_max_search_time_sec">254</integer>
 </resources>
