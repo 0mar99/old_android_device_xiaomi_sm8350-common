@@ -304,10 +304,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libgui_vendor
 
-# Lineage Health
-PRODUCT_PACKAGES += \
-    vendor.lineage.health-service.default
-
 # Media
 PRODUCT_PACKAGES += \
     libmm-omxcore \
